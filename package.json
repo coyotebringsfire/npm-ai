@@ -1,0 +1,27 @@
+{
+  "name": "npm-ai",
+  "version": "0.0.1",
+  "description": "AI trainer that uses npm metadata to predict stuff ",
+  "main": "npm-ai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coyotebringsfire/npm-ai.git"
+  },
+  "keywords": [
+    "npmjs",
+    "ai"
+  ],
+  "author": "aumkara@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coyotebringsfire/npm-ai/issues"
+  },
+  "homepage": "https://github.com/coyotebringsfire/npm-ai",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "npm": "^2.10.0"
+  }
+}
